@@ -1,0 +1,157 @@
+.top-container {
+  background-color: #7FC8A9;
+  position: relative;
+  padding: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #B5EAEA;
+}
+
+h1 {
+font-size: 5.62rem;
+margin: 50px auto 0 auto;
+font-family: 'Pinyon Script', cursive;
+color: #0F044C;
+}
+
+h2 {
+  font-family: 'Cookie', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+.programmer {
+line-height: 2;
+font-weight: normal;
+  font-size: 1.5rem;
+  color: #0F044C;
+}
+
+h3 {
+  font-family: 'Cinzel Decorative', cursive;
+  color: #11999E;
+}
+
+.footer-link{
+
+  color: #0F044C;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+.footer-link:hover {
+
+  color: white;
+}
+
+.me {
+  color: snow;
+}
+.bottom-container {
+
+  padding: 30px;
+  background-color: #53B8BB;
+  margin: 20px auto 30px auto;
+}
+
+.middle-container {
+  margin: 50px 0;
+}
+
+.developer {
+
+  width:30%;
+  margin:auto;
+  font-size: 18px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.python {
+
+  width: 25%;
+  float: left;
+  padding-right:30px;
+}
+
+.JavaScript {
+
+  width: 25%;
+  float: right;
+  padding-left:30px;
+}
+.Hiking {
+
+  width: 25%;
+  float: left;
+  padding-right:30px;
+
+}
+
+hr {
+
+  border: 6px dotted;
+  width: 2%;
+  margin: 80px auto 80px auto;
+  border-top: 0;
+  border-color: grey;
+
+
+
+}
+
+.social {
+
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.btn {
+  background: yellow;
+  background-image: -webkit-linear-gradient(top, yellow, green);
+  background-image: -moz-linear-gradient(top, yellow, green);
+  background-image: -ms-linear-gradient(top, yellow, green);
+  background-image: -o-linear-gradient(top, yellow, green);
+  background-image: linear-gradient(to bottom, yellow, green);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: goldenrod;
+  background-image: -webkit-linear-gradient(top, goldenrod, green);
+  background-image: -moz-linear-gradient(top, goldenrod, green);
+  background-image: -ms-linear-gradient(top, goldenrod, green);
+  background-image: -o-linear-gradient(top, goldenrod, green);
+  background-image: linear-gradient(to bottom, goldenrod, green);
+  text-decoration: none;
+}
